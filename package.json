@@ -1,0 +1,7 @@
+{
+  "name": "xhs-bloggers-summary",
+  "private": true,
+  "scripts": {
+    "dev": "npx --yes vite --host --strictPort"
+  }
+}
